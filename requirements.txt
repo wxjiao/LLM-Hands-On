@@ -1,0 +1,20 @@
+torch == 1.13.1
+torchaudio == 0.13.1
+torchvision == 0.14.1
+transformers == 4.39.0.dev0
+accelerate == 0.18.0
+bitsandbytes == 0.41.3
+datasets == 2.10.0
+deepspeed == 0.13.5
+evaluate == 0.4.0
+fairscale == 0.4.13
+flash-attn == 2.5.6
+gradio == 3.27.0
+numpy == 1.23.5
+peft == 0.9.0
+tensorboard == 2.12.2
+tiktoken == 0.6.0
+tokenizers == 0.15.2
+git+https://github.com/huggingface/trl.git
+protobuf == 3.20.1
+scikit-learn == 1.2.2
