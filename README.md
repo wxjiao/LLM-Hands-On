@@ -1,4 +1,5 @@
-# LLM-Hands-On: Pipeline to Develop Multiturn Chatbots Based on LLMs
+# LLM-Hands-On
+Pipeline to Develop Multiturn Chatbots Based on LLMs
 
 - Continual Pre-Training
 - Supervised Fine-Tuning
