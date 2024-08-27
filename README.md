@@ -1,4 +1,6 @@
 # LLM-Hands-On
+(None of this is new, but after going through all the details, I learned a lot)
+
 Pipeline to Develop Multiturn Chatbots Based on LLMs
 
 - Continual Pre-Training
