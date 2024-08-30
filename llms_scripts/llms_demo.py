@@ -3,7 +3,10 @@
 # This source code is licensed under the license found in the
 # LICENSE file in the root directory of this source tree.
 
-"""A simple web interactive chat demo based on gradio."""
+"""
+A simple web interactive chat demo based on gradio.
+(Borrowed from Qwen)
+"""
 
 from argparse import ArgumentParser
 from threading import Thread
