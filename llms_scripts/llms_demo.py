@@ -13,7 +13,7 @@ import torch
 from transformers import AutoModelForCausalLM, AutoTokenizer, TextIteratorStreamer
 
 
-DEFAULT_CKPT_PATH = '/apdcephfs_qy3/share_733425/joelwxjiao/LLMs4MT/FinetuneModels/Qwen1.5-1.8B-sft'
+DEFAULT_CKPT_PATH = "[YOUR_WORKSPACE]/FinetuneModels/Qwen1.5-1.8B-sft"
 
 
 def _get_args():
